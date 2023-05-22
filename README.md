@@ -1,6 +1,6 @@
 
 The task at hand is to design a suitable simulator with a graphical user interface (GUI) to teach small children about the different rules of geometry and solid geometry. The simulator will provide an interactive learning experience by displaying various geometric shapes and their corresponding formulas or rules for problem-solving. Additionally, the GUI will include visual representations of the shapes to enhance the child's understanding and engagement.
-
+![plot](Plot.png)
 To implement this task, we will develop a Python program using the PyQt5 library, which provides tools for creating GUI applications. The program will consist of a main window that displays the different geometrical shapes and their associated rules.
 1.	GUI Design:
 •	The main window will include a shape selector, where the child can choose a specific shape to learn about.
